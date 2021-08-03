@@ -14,7 +14,6 @@ def get_json_listings(url):
         return None
 
 def get_ids_from_json(json):
-    print(type(json))
     ids = []
     for listing in json:
         ids.append(listing['id'])
