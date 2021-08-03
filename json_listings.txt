@@ -1,0 +1,131 @@
+[{
+      "id": "01FA61T8NJXR9SFEW53FBS7XK2",
+      "createdBy": "7f8076c7-ebd1-448a-8378-a50a70466d1f",
+      "status": "ACTIVE",
+      "dossierId": null,
+      "listingType": "RENTAL",
+      "propertyType": "APT",
+      "leaseType": "STANDARD",
+      "beds": 0.0,
+      "baths": 1.0,
+      "size": 600.0,
+      "floorLevel": null,
+      "media": {
+        "id": "224c9c1b-dbc7-4d6a-9940-2d21a77f8794",
+        "createdBy": "7f8076c7-ebd1-448a-8378-a50a70466d1f",
+        "appId": "RentAprilApp",
+        "mediaType": "VIDEO",
+        "dashUrl": "https://d13jw5n9w9mxur.cloudfront.net/224c9c1b-dbc7-4d6a-9940-2d21a77f8794/dash/01FA61T8NJXR9SFEW53FBS7XK2_1625848357801.mpd",
+        "hlsUrl": "https://d13jw5n9w9mxur.cloudfront.net/224c9c1b-dbc7-4d6a-9940-2d21a77f8794/hls/01FA61T8NJXR9SFEW53FBS7XK2_1625848357801.m3u8",
+        "mp4Urls": [
+          "https://d13jw5n9w9mxur.cloudfront.net/224c9c1b-dbc7-4d6a-9940-2d21a77f8794/mp4/01FA61T8NJXR9SFEW53FBS7XK2_1625848357801_Mp4_Avc_Aac_9x16_720x1280p_24Hz_4.5Mbps_qvbr.mp4"
+        ],
+        "thumbnailsUrls": [
+          "https://d13jw5n9w9mxur.cloudfront.net/224c9c1b-dbc7-4d6a-9940-2d21a77f8794/thumbnails/01FA61T8NJXR9SFEW53FBS7XK2_1625848357801_thumb.0000005.jpg"
+        ],
+        "portrait": true,
+        "rotated": false,
+        "rotation": "0.000",
+        "children": []
+      },
+      "formattedAddress": "152 W 20th St, New York, NY 10011, USA",
+      "coordinates": {
+        "lat": 40.7418435,
+        "lon": -73.9964083
+      },
+      "street": "West 20th Street",
+      "zipCode": "10011",
+      "number": "152",
+      "section": null,
+      "floor": null,
+      "door": "A",
+      "propertySubtype": null,
+      "originalPrice": 1800.0,
+      "video": null,
+      "vetted": false,
+      "thumbnail": null,
+      "mediaBucket": null,
+      "price": 1800.0,
+      "googlePlaceId": "ChIJZz4FmbxZwokRWkf08TlBGXw",
+      "locationTags": [],
+      "featureTags": [],
+      "fees": [],
+      "promos": [],
+      "analytics": {
+        "favCount": 0,
+        "appCount": 0,
+        "offerCount": 0
+      },
+      "reactions": {
+        "like": 0
+      },
+      "createdAt": "2021-07-09T16:32:37.554192Z",
+      "updatedAt": "2021-07-09T16:35:37.275115Z",
+      "publishedAt": "2021-07-09T16:35:37.275138Z"
+    },
+{
+      "id": "22FA61T8NJXR9SFEW53FBS7XK2",
+      "createdBy": "7f8076c7-ebd1-448a-8378-a50a70466d1f",
+      "status": "ACTIVE",
+      "dossierId": null,
+      "listingType": "RENTAL",
+      "propertyType": "APT",
+      "leaseType": "STANDARD",
+      "beds": 0.0,
+      "baths": 1.0,
+      "size": 600.0,
+      "floorLevel": null,
+      "media": {
+        "id": "224c9c1b-dbc7-4d6a-9940-2d21a77f8794",
+        "createdBy": "7f8076c7-ebd1-448a-8378-a50a70466d1f",
+        "appId": "RentAprilApp",
+        "mediaType": "VIDEO",
+        "dashUrl": "https://d13jw5n9w9mxur.cloudfront.net/224c9c1b-dbc7-4d6a-9940-2d21a77f8794/dash/01FA61T8NJXR9SFEW53FBS7XK2_1625848357801.mpd",
+        "hlsUrl": "https://d13jw5n9w9mxur.cloudfront.net/224c9c1b-dbc7-4d6a-9940-2d21a77f8794/hls/01FA61T8NJXR9SFEW53FBS7XK2_1625848357801.m3u8",
+        "mp4Urls": [
+          "https://d13jw5n9w9mxur.cloudfront.net/224c9c1b-dbc7-4d6a-9940-2d21a77f8794/mp4/01FA61T8NJXR9SFEW53FBS7XK2_1625848357801_Mp4_Avc_Aac_9x16_720x1280p_24Hz_4.5Mbps_qvbr.mp4"
+        ],
+        "thumbnailsUrls": [
+          "https://d13jw5n9w9mxur.cloudfront.net/224c9c1b-dbc7-4d6a-9940-2d21a77f8794/thumbnails/01FA61T8NJXR9SFEW53FBS7XK2_1625848357801_thumb.0000005.jpg"
+        ],
+        "portrait": true,
+        "rotated": false,
+        "rotation": "0.000",
+        "children": []
+      },
+      "formattedAddress": "152 W 20th St, New York, NY 10011, USA",
+      "coordinates": {
+        "lat": 40.7418435,
+        "lon": -73.9964083
+      },
+      "street": "West 20th Street",
+      "zipCode": "10011",
+      "number": "152",
+      "section": null,
+      "floor": null,
+      "door": "A",
+      "propertySubtype": null,
+      "originalPrice": 1800.0,
+      "video": null,
+      "vetted": false,
+      "thumbnail": null,
+      "mediaBucket": null,
+      "price": 1800.0,
+      "googlePlaceId": "ChIJZz4FmbxZwokRWkf08TlBGXw",
+      "locationTags": [],
+      "featureTags": [],
+      "fees": [],
+      "promos": [],
+      "analytics": {
+        "favCount": 0,
+        "appCount": 0,
+        "offerCount": 0
+      },
+      "reactions": {
+        "like": 0
+      },
+      "createdAt": "2021-07-09T16:32:37.554192Z",
+      "updatedAt": "2021-07-09T16:35:37.275115Z",
+      "publishedAt": "2021-07-09T16:35:37.275138Z"
+    }
+]
