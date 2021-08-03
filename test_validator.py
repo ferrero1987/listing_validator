@@ -8,7 +8,7 @@ class BasicTests(unittest.TestCase):
 
     def test_get_ids(self):
         mock_get_patcher = patch('validator.requests.get')
-        with open('json_listings.txt', 'r') as file:
+        with open('listing_validator\json_listings.txt', 'r') as file:
             listings = json.loads(file.read())
 
         mock_get = mock_get_patcher.start()
@@ -24,7 +24,7 @@ class BasicTests(unittest.TestCase):
 
     def test_get_ids_from_json(self):
 
-        with open('json_listings.txt', 'r') as file:
+        with open('listing_validator\json_listings.txt', 'r') as file:
             listings = json.loads(file.read())
 
         self.assertEqual(get_ids_from_json(listings), ["01FA61T8NJXR9SFEW53FBS7XK2", "22FA61T8NJXR9SFEW53FBS7XK2"])
@@ -32,7 +32,7 @@ class BasicTests(unittest.TestCase):
     def test_get_json_listings(self):
 
         mock_get_patcher = patch('validator.requests.get')
-        with open('json_listings.txt', 'r') as file:
+        with open('listing_validator\json_listings.txt', 'r') as file:
             listings = json.loads(file.read())
         
 
